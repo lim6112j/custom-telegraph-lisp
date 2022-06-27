@@ -1,5 +1,4 @@
-;;; teletype.el -*- lexical-binding: t; -*-
-;;
+;;; teletype.el --- Summary  -*- lexical-binding: t; -*-
 ;; Copyright (C) 2022 Ben Lim
 ;;
 ;; Author: Ben Lim <lim6112j@gmail.com>
@@ -13,8 +12,8 @@
 ;;
 ;; This file is not part of GNU Emacs.
 ;;
-;; Commentary:
-;;
+;;; Commentary:
+;; use M-x teletype-run in the buffer you want
 ;;
 ;;
 ;;; Code:
